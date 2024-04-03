@@ -26,5 +26,13 @@ MetaBot will reply with Teepee's recommended attachments for the MTZ-556, struct
 ![User command](screenshots/Screenshot%20from%202024-04-03%2017-20-08.png)
 
 
+## Contributing
+Contributions to MetaBot are welcome. Feel free to fork this repository, make your improvements, and submit a pull request.
+
+
+## Acknowledgments
+- Special thanks to Teepee for compiling and sharing his insights on the best attachments for various weapons in Call of Duty: Warzone. His expertise and recommendations form the backbone of MetaBot's functionality.
+- Appreciation for Discord and the discord.py library for enabling easy development and deployment of interactive bots.
+
 
 
