@@ -19,3 +19,12 @@ To deploy MetaBot in your Discord server, please follow these instructions:
 ## Usage
 Engage with MetaBot on any Discord server it's part of by typing `!` followed by the gun name. For example:
 
+![User command](screenshots/Screenshot%20from%202024-04-03%2017-19-53.png)
+
+MetaBot will reply with Teepee's recommended attachments for the MTZ-556, structured as follows:
+
+![User command](screenshots/Screenshot%20from%202024-04-03%2017-20-08.png)
+
+
+
+
